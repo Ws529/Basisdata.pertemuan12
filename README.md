@@ -4,7 +4,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Fadzar Surya Wijaya|312310451|TI.23.A.5|Basis Data|
+|Wawan Suwandi|312310457|TI.23.A.5|Basis Data|
 
 
 # Soal Latihan Praktikum 
