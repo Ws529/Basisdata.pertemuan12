@@ -1,0 +1,1 @@
+# Basisdata.pertemuan12
